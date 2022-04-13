@@ -1,4 +1,4 @@
-# ML for graphene nanopores
+# ML for nanopores
 
 ### Tailoring Nanoporous Graphene via Machine Learning: Predicting Probabilities and Formation Times of Arbitrary Nanopore Shapes
 > Cite our paper here
