@@ -23,5 +23,4 @@ The sequence recommended for executing the files using the command prompt is:
 
 ## References
 
-<a id="1">[1]</a>  Govind Rajan, A.; Silmore, K.; Swett, J.; Robertson, A. W.; Warner, J. H.; Blankschtein, D.; Strano, M. S. Addressing the isomer cataloguing problem for nanopores in two-dimensional materials. Nature Materials, 18, pp 129–135 (2019).\
-Source Code: https://github.com/agrgroup/nanopore_isomers.
+<a id="1">[1]</a>  Govind Rajan, A.; Silmore, K.; Swett, J.; Robertson, A. W.; Warner, J. H.; Blankschtein, D.; Strano, M. S. Addressing the isomer cataloguing problem for nanopores in two-dimensional materials. Nature Materials, 18, pp 129–135 (2019). Source Code: https://github.com/agrgroup/nanopore_isomers.
