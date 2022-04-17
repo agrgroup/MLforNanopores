@@ -14,7 +14,7 @@ The dataset was generated using the DFT-KMC-Graph Theory approach proposed by Go
 
 ![alt text](https://github.com/agrgroup/MLforNanopores/blob/main/TOC_image.png)
 
-The sequence recommended for executing MATLAB files using MATLAB's command window is:
+The sequence recommended for executing the MATLAB files using MATLAB's command window is:
 * <pre>generate_isomers</pre> Generates nanopore isomers stochastically based on the KMC algorithm and stores their propoerties in the form of CSV files, which will further be used to generate the corresponding physical descriptors. The N values corresponding to the nanopores and the number of KMC runs must be pre-specified in order to run the simulation.
 
 
@@ -23,7 +23,7 @@ The sequence recommended for executing MATLAB files using MATLAB's command windo
 <b>Note</b>: Please refer to [1] for a much detailed description of all the used MATLAB codes for a deeper understanding of the algorithm.
 
 
-The sequence recommended for executing Python files using the Windows command prompt is:
+The sequence recommended for executing the Python files using the Windows command prompt is:
 * <pre>python load.py</pre> Concatenates the individual CSV files in the "physicalFeatures" folder into one dataframe and splits it into training and test CSV files. (Executing this script is <b> not </b> necessary if the required train.csv and test.csv files are already present in the "input" folder in the "probability" and "formation_time" directories).
 
 
