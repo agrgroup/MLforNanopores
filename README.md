@@ -15,7 +15,7 @@ The dataset was generated using the DFT-KMC-Graph Theory approach proposed by Go
 ![alt text](https://github.com/agrgroup/MLforNanopores/blob/main/TOC_image.png)
 
 The sequence recommended for executing MATLAB files using MATLAB's command window is:
-* <pre>generate_isomers</pre> Generates nanopore isomers stochastically based on the KMC algorithm and stores their propoerties in the form of CSV files, which will further be used to generate the corresponding features of those nanopores. The N values corresponding to the nanopore and the number of KMC runs must be pre-specified in order to run the simulation.
+* <pre>generate_isomers</pre> Generates nanopore isomers stochastically based on the KMC algorithm and stores their propoerties in the form of CSV files, which will further be used to generate the corresponding physical descriptors. The N values corresponding to the nanopores and the number of KMC runs must be pre-specified in order to run the simulation.
 
 
 * <pre>generateCSV</pre> Generates the physical features for nanopores based on the previously obtained KMC data. 
