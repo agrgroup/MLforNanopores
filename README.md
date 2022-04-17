@@ -18,7 +18,7 @@ The sequence recommended for executing the MATLAB files using MATLAB's command w
 * <pre>generate_isomers</pre> Generates nanopore isomers stochastically based on the KMC algorithm and stores their propoerties in the form of CSV files, which will further be used to generate the corresponding physical descriptors. The N values corresponding to the nanopores and the number of KMC runs must be pre-specified in order to run the simulation.
 
 
-* <pre>generateCSV</pre> Generates the physical features for nanopores based on the previously obtained KMC data. 
+* <pre>generateCSV</pre> Generates the physical features for nanopores whose N values are specified, based on the previously obtained KMC data. 
 
 <b>Note</b>: Please refer to souce code in [1] for a much detailed description of all the used MATLAB scripts.
 
