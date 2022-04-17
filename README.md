@@ -5,7 +5,7 @@
 
 ## Contents
 
-This repository contains the necessary MATLAB and Python files to manually generate the data and train a two-stage machine learning (ML) model for predicting the probabilities and formation times of graphene nanopores.
+This repository contains the necessary MATLAB and Python scripts to manually generate the data and train a two-stage machine learning (ML) model, respectively, for predicting the probabilities and formation times of graphene nanopores.
 The first stage in the two-stage model aims at segregating the nanopores (corresponding to both probability and formation time prediction) into majority/minority classes based on a fixed threshold for probability and formation time. And,
 the second stage aims at predicting the actual probability/formation times of the nanopores based on the seperation of nanopores in stage 1. The complexity in the datasets have been captured using the gradient-boosted ML models and
 the linearity in the datasets have been captured using linear regression.
