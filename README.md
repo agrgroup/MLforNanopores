@@ -18,7 +18,7 @@ The sequence recommended for executing the MATLAB files using MATLAB's command w
 
 * <pre>generateCSV</pre> Generates the physical features for nanopores whose N values are specified based on the previously obtained KMC data. 
 
-<b>Note</b>: Please refer to the souce code in [1] for a more detailed description of the used MATLAB scripts.
+<b>Note</b>: Please refer to the souce code in [1] for a more detailed description of the MATLAB scripts used.
 
 
 The sequence recommended for executing the Python files using the Windows command prompt is:
