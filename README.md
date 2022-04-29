@@ -1,7 +1,7 @@
 # ML for nanopores
 
 ### Tailoring Nanoporous Graphene via Machine Learning: Predicting Probabilities and Formation Times of Arbitrary Nanopore Shapes
-> Cite our paper here
+> Sheshanarayana, R. and Govind Rajan, A. J. Chem. Phys. (in press) (2022); https://doi.org/10.1063/5.0089469
 
 ## Contents
 
